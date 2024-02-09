@@ -1,2 +1,2 @@
 # certification_nlw
-Projeto en Java construido junto a Rocketseat no NLW.
+Projeto em Java construido junto a Rocketseat no NLW.
